@@ -17,6 +17,7 @@ int main(int argc, char *argv[])
 	
 	printf("hello luo\n");	
 	printf("hello chao\n")
+	printf("hello feature_x\n");
 	return 0;
 }
 
